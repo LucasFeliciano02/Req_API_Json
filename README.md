@@ -1,2 +1,2 @@
 # requisicoes_Get_API
--Requisições utilizando o dicionario do python JSON com APIs 
+- Requisições utilizando o dicionario do python JSON com APIs 
